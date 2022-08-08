@@ -1,0 +1,15 @@
+C:\Users\Francisco Rafael\Desktop\recuperacion\bin\Debug\net6.0\recuperacion.exe
+C:\Users\Francisco Rafael\Desktop\recuperacion\bin\Debug\net6.0\recuperacion.deps.json
+C:\Users\Francisco Rafael\Desktop\recuperacion\bin\Debug\net6.0\recuperacion.runtimeconfig.json
+C:\Users\Francisco Rafael\Desktop\recuperacion\bin\Debug\net6.0\recuperacion.dll
+C:\Users\Francisco Rafael\Desktop\recuperacion\bin\Debug\net6.0\recuperacion.pdb
+C:\Users\Francisco Rafael\Desktop\recuperacion\obj\Debug\net6.0\recuperacion.csproj.AssemblyReference.cache
+C:\Users\Francisco Rafael\Desktop\recuperacion\obj\Debug\net6.0\recuperacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francisco Rafael\Desktop\recuperacion\obj\Debug\net6.0\recuperacion.AssemblyInfoInputs.cache
+C:\Users\Francisco Rafael\Desktop\recuperacion\obj\Debug\net6.0\recuperacion.AssemblyInfo.cs
+C:\Users\Francisco Rafael\Desktop\recuperacion\obj\Debug\net6.0\recuperacion.csproj.CoreCompileInputs.cache
+C:\Users\Francisco Rafael\Desktop\recuperacion\obj\Debug\net6.0\recuperacion.dll
+C:\Users\Francisco Rafael\Desktop\recuperacion\obj\Debug\net6.0\refint\recuperacion.dll
+C:\Users\Francisco Rafael\Desktop\recuperacion\obj\Debug\net6.0\recuperacion.pdb
+C:\Users\Francisco Rafael\Desktop\recuperacion\obj\Debug\net6.0\recuperacion.genruntimeconfig.cache
+C:\Users\Francisco Rafael\Desktop\recuperacion\obj\Debug\net6.0\ref\recuperacion.dll
